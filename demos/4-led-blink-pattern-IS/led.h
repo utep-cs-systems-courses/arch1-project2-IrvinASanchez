@@ -5,6 +5,5 @@
 #define LED_GREEN BIT0             // P1.0
 #define LEDS (BIT0 | BIT6)
 
-void greenControl(int on);
 
 #endif // included
